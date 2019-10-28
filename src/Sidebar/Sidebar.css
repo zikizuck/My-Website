@@ -1,0 +1,8 @@
+.Sidebar {
+    background: cornflowerblue;
+    height: 600px;
+    width: fit-content;
+    z-index: -3;
+    /*position: fixed;*/
+
+}

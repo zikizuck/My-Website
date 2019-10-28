@@ -1,0 +1,19 @@
+.MenuItem {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-radius:15%;
+    box-shadow: 10px 10px 5px grey;
+    background-color: aquamarine;
+    width: auto;
+    height: fit-content;
+    padding: 5px;
+
+}
+
+.MenuItem:hover {
+    box-shadow: 5px 5px 5px grey inset;
+
+
+}

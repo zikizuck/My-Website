@@ -1,0 +1,10 @@
+
+.Header {
+    background: silver;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Header h1{
+    margin: 0;
+}
