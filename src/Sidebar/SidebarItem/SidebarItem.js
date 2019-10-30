@@ -4,9 +4,12 @@ import './SidebarItem.css';
 class SidebarItem extends Component {
     render() {
         return (
-            <div>
+            <li>
+                <a href={this.props.url} className="SidebarItem">
+                    {this.props.children}
+                </a>
 
-            </div>
+            </li>
         );
     }
 }

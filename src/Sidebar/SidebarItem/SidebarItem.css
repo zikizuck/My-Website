@@ -1,0 +1,21 @@
+
+li{
+    list-style: none;
+
+
+}
+li a{
+    font-size: 30px;
+    font-family:Bradley Hand;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius:15%;
+
+
+
+}
+li a:hover{
+    color: red;
+    background-color: snow;
+    box-shadow: 1px 0.5px 1px red;
+}

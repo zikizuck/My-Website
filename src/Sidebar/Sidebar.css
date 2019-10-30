@@ -1,8 +1,9 @@
 .Sidebar {
-    background: cornflowerblue;
-    height: 600px;
+    background: aqua;
+    position: absolute;
+    height: 650px;
     width: fit-content;
-    z-index: -3;
     /*position: fixed;*/
+
 
 }

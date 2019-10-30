@@ -1,8 +1,15 @@
 .Footer {
-    background-color: cornflowerblue;
+    background-color: aqua;
     height: 100px;
-    /*bottom: 0;*/
-    /*position: fixed;*/
+    width: 100%;
+    top: 700px;
+    position: absolute;
 
 
+}
+.Footer h3{
+    text-align: center;
+    font-family: Bradley Hand;
+    font-size: 40px;
+    font-weight: bold;
 }
