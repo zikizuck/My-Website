@@ -9,6 +9,11 @@ function App() {
   return (
     <div className="App">
       <Header/>
+      <section className="section">
+          <p>My Website <br/> on React</p>
+
+      </section>
+
       <Sidebar/>
       <Footer/>
 

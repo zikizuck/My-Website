@@ -5,17 +5,19 @@ li{
 
 }
 li a{
+    color: white;
     font-size: 30px;
     font-family:Bradley Hand;
+    text-shadow: 2px 2px 1px black;
     font-weight: bold;
     text-decoration: none;
-    border-radius:15%;
 
 
 
 }
 li a:hover{
     color: red;
-    background-color: snow;
-    box-shadow: 1px 0.5px 1px red;
+    font-size: 32px;
+    text-shadow: 2px 3px 3px red ;
+
 }

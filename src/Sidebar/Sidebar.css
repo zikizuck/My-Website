@@ -1,9 +1,14 @@
 .Sidebar {
-    background: aqua;
-    position: absolute;
-    height: 650px;
-    width: fit-content;
-    /*position: fixed;*/
+    /*background: aqua;*/
+    /*position: absolute;*/
+    height: 100%;
+    width: auto;
+    position: fixed;
+    display: block;
+    top:80px;
+    background: url(images.jpeg);
+    background-repeat: repeat-y;
+    background-size: auto;
 
 
 }

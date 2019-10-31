@@ -1,9 +1,14 @@
 .Footer {
-    background-color: aqua;
-    height: 100px;
+    /*background-color: aqua;*/
+    height: 200px;
     width: 100%;
-    top: 700px;
-    position: absolute;
+    top: 600px;
+    position: fixed;
+    display: block;
+    /*bottom: 100px;*/
+    background: url(park-footer.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 
 
 }
@@ -12,4 +17,7 @@
     font-family: Bradley Hand;
     font-size: 40px;
     font-weight: bold;
+}
+.Footer img{
+
 }

@@ -1,3 +1,27 @@
 body{
  background-color: ghostwhite;
+ hight:600px;
+ width:900px;
+}
+
+.section{
+ position: absolute;
+ height: 620px;
+ left: 185px;
+ right: 0px;
+ z-index: 1;
+ overflow: auto;
+ top:80px;
+}
+
+.section p{
+ font-family: Brush Script MT;
+ font-size: 100px;
+ position: absolute;
+ display: inline-block;
+ text-align: center;
+ width: calc(100% - 100px);
+
+
+
 }
