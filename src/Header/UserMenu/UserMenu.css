@@ -1,0 +1,19 @@
+
+.Expand-button {
+    display:none;
+}
+
+
+.UserMenu {
+    position: relative;
+    margin-right: 40px;
+
+}
+.UserMenu ul{
+    position: absolute;
+    list-style: none;
+    padding: 0px;
+    /*z-index: 1;*/
+}
+
+

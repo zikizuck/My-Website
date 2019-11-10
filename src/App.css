@@ -14,14 +14,12 @@ body{
  top:80px;
 }
 
-.section p{
- font-family: Brush Script MT;
- font-size: 100px;
- position: absolute;
- display: inline-block;
- text-align: center;
- width: calc(100% - 100px);
+/*.section p{*/
+/* font-family: Brush Script MT;*/
+/* font-size: 100px;*/
+/* position: absolute;*/
+/* display: inline-block;*/
+/* text-align: center;*/
+/* width: calc(100% - 100px);*/
 
-
-
-}
+/*}*/

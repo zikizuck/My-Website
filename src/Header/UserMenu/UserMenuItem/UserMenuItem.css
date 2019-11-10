@@ -1,0 +1,27 @@
+
+
+.UserMenuItem  {
+    display: block;
+    background: lightcyan;
+    color: white;
+    font-size: 20px;
+    font-family:Bradley Hand;
+    text-shadow: 2px 2px 1px black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+ li  a:hover{
+    color: red;
+}
+
+
+
+
+/*.UserMenuItem li{*/
+/*    display: none;*/
+
+/*}*/
+/*.UserMenuItem li:hover{*/
+/*    display: inline-block;*/
+/*}*/

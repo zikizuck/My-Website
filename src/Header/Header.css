@@ -50,8 +50,8 @@
     border-radius: 0 25px 25px 0;
 }
 .search-form button:hover {
-    background-color: #298c9d;
+    /*background-color: #298c9d;*/
 }
 .search-form img {
-    height: 20px;
+    height: 30px;
 }

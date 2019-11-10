@@ -1,13 +1,19 @@
 import React, {Component} from 'react';
+import './UserMenuButton.css';
 
-class UserMenuButtom extends Component {
+
+class UserMenuButton extends Component {
+
+
     render() {
+
         return (
-            <div>
+            <button className="UserMenuButton" >
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/1024px-User_icon_2.svg.png" alt=""/>
                 
-            </div>
+            </button>
         );
     }
 }
 
-export default UserMenuButtom;
+export default UserMenuButton;
